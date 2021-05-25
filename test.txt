@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 7AA5-8B5D
+
+ Directory of D:\Git Repo
+
+25-05-2021  19:02    <DIR>          .
+25-05-2021  19:02    <DIR>          ..
+25-05-2021  19:02                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  331,160,371,200 bytes free
+
+Data
